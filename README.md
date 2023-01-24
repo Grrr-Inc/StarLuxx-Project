@@ -155,7 +155,7 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
 
 [Base de données]()
 
-- [ ]  Maquette des différents panels
+- [ ]  Maquette des différents panels WIP -> Figma https://www.figma.com/files/project/77988298/Grrr.Inc?fuid=1192554199098374826
 
 ### Cahier technique 📙
 
@@ -222,38 +222,12 @@ To get a local copy up and running follow these simple example steps._
 ## Roadmap 🛣️🏁
 ---
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add and configure JIRA or GitHub env
-- [ ] Add Specification
-    - [ ] 
-    - [ ] 
-- [ ] technical notebook
-    - [ ] 
-    - [ ] 
+- JIRA WIP -> https://my-anime-list.atlassian.net/jira/software/projects/GI/boards/2/roadmap
 
 _See the [open issues](https://github.com/Zerio113/Java-MyEasyLine-GR/issues) for a full list of proposed features (and known issues)._
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing 🤔
----
-
-Any contributions you make are **greatly appreciated**.
-
-_If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!_
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact 📇
@@ -264,25 +238,6 @@ Gwendal Pruny - [@Zerio113](https://github.com/Zerio113) - gwendal.pruny@edu.esi
 Remy Madeira - [@Darkman](https://github.com/Darkman-dev) - remy.madeira@edu.esiee-it.fr
 
 Project Link: [https://github.com/Zerio113/Java-MyEasyLine-GR](https://github.com/Zerio113/Java-MyEasyLine-GR)
-
-<p align="right">(<a href="#readme">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments 📜
----
-
-This space is to list resources found helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme">back to top</a>)</p>
 
