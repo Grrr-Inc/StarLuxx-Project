@@ -145,9 +145,9 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
 
 - [X]  BDD en sql 
 
-[Base de données]()
+[Base de données](Diagramme_Base_de_données.png)
 
-- [ ]  Maquette des différents panels WIP -> Figma https://www.figma.com/files/project/77988298/Grrr.Inc?fuid=1192554199098374826
+<img src="Diagramme_Base_de_données.png" alt="Logo">
  ```   
    Vehicule(id, modele, marque, etat_vehicule)
    PK : id
@@ -163,6 +163,9 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
    Loueur(id, prenom, nom, mail, tel)
    PK : id
  ```  
+ 
+- [ ]  Maquette des différents panels WIP -> Figma https://www.figma.com/files/project/77988298/Grrr.Inc?fuid=1192554199098374826
+
 
 ### Cahier technique 📙
 
