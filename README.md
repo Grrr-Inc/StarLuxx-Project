@@ -137,11 +137,11 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
 
 - [X]  Diagramme de cas d'utilisation
 
-![Diagramme de cas d'utilisation]()
+<img src="images/diagramme_cas_utilisation_StarLuxx.png" alt="Logo">
 
 - [X]  Diagramme de classes métier
 
-![Diagramme de cas d'utilisation]()
+<img src="images/diagramme_classes_StarLuxx.png" alt="Logo">
 
 - [X]  BDD en sql 
 
