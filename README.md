@@ -145,9 +145,9 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
 
 - [X]  BDD en sql 
 
-[Base de données](Diagramme_Base_de_données.png)
+[Base de données](images/Diagramme_Base_de_données_StarrLuxx.drawio.png)
 
-<img src="Diagramme_Base_de_données.png" alt="Logo">
+![Diagramme BDD](images/Diagramme_Base_de_données_StarrLuxx.drawio.png)
  ```   
    Vehicule(id, modele, marque, etat_vehicule)
    PK : id
