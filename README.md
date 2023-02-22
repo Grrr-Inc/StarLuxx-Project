@@ -148,7 +148,7 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
 [Base de données]()
 
 - [ ]  Maquette des différents panels WIP -> Figma https://www.figma.com/files/project/77988298/Grrr.Inc?fuid=1192554199098374826
-  
+ ```   
    Vehicule(id, modele, marque, etat_vehicule)
    PK : id
    
@@ -162,7 +162,7 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
    
    Loueur(id, prenom, nom, mail, tel)
    PK : id
-   
+ ```  
 
 ### Cahier technique 📙
 
