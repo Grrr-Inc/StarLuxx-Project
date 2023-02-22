@@ -148,6 +148,21 @@ L'entreprise souhaite avoir a sa disposition une application simple et facile a 
 [Base de données]()
 
 - [ ]  Maquette des différents panels WIP -> Figma https://www.figma.com/files/project/77988298/Grrr.Inc?fuid=1192554199098374826
+  
+   Vehicule(id, modele, marque, etat_vehicule)
+   PK : id
+   
+   Agent(id, login, mdp, nom, prenom, role)
+   PK : id
+   
+   Location(id, date_debut, date_fin, vehicule_id, loueur_id)
+   PK : id
+   FK : loueur_id pour Loueur
+        vehicule_id pour Vehicule
+   
+   Loueur(id, prenom, nom, mail, tel)
+   PK : id
+   
 
 ### Cahier technique 📙
 
